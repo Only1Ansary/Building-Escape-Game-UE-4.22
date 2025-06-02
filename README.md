@@ -1,9 +1,12 @@
 # Building-Escape-Game-UE-4.22
 
-A 3D game made by Unreal Engine 4.22, The game is about escaping a building contains 4 rooms, each room has a puzzle that you should solve as a player to open the room's door and each room has a small hint to know how to solve its puzzle, this is not the final version though but it is a playable version.
+This is a 3D game developed using Unreal Engine 4.22. The goal is to escape a building made up of four rooms, each containing a puzzle. To progress, you must solve the puzzle in each room to unlock its door. Every puzzle has a small hint hidden in the room to help you figure it out.
+
+----- This is not the final version of the game, but it is fully playable. -----
 
 Controls:
-Move with [w,s,a,d] keys [up,down,left,right] respectively, and to grab an item hold right click and move your mouse wherever you want then release.
+Move using: W, A, S, D keys (forward, left, backward, right).
+Grab items: Hold Right Mouse Button, move your mouse to drag the item, and release to drop it.
 
 Since the size of the game is very large to upload here:
 
